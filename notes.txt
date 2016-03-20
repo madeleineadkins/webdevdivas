@@ -1,5 +1,9 @@
 This is where we keep reference materials.
 
+http://bonniekim.github.io/webdevdivas
+
+https://pages.github.com/
+
 http://htmlandcssbook.com/
 
 http://www.webmonkey.com/2010/02/html_cheatsheet/
@@ -25,4 +29,3 @@ http://www.w3schools.com/css/css_syntax.asp
 http://www.csszengarden.com/
 
 http://getbootstrap.com/
-
